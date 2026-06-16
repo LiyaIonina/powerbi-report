@@ -1,2 +1,2 @@
 # powerbi-report
-PowerBI final project for Academica
+Data Visualization - Power BI
